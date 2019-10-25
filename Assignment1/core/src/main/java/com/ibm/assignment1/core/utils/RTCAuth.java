@@ -2,7 +2,7 @@ package com.ibm.assignment1.core.utils;
 
 public class RTCAuth {
 	private static String RtcUserId = "caojwh@cn.ibm.com";
-	private static String RtcPassword = "dog.pig.ice-123";
+	private static String RtcPassword = "";
 	private static String RtcProjectName = "";
 	private static String RtcRepositoryAddress = "";
 	public static String getRtcUserId() {
